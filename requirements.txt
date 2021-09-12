@@ -6,3 +6,6 @@ tensorflow==1.13.1
 keras==2.4.3 
 matplotlib
 PyWavelets
+neurokit2
+pyhrv
+py-ecg-detectors
