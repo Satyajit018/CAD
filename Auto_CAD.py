@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from sklearn import preprocessing
 from sklearn import svm
 from sklearn.model_selection import StratifiedKFold
-from sklearn.metrics import plot_roc_curve, auc, accuracy_score, f1_score
+from sklearn.metrics import  auc, accuracy_score, f1_score
 from scipy.signal import butter, lfilter,iirnotch,resample_poly
 import pywt
 import neurokit2 as nk
